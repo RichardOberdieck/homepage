@@ -43,12 +43,12 @@ jobs:
                   extended: true
 
             - name: Build
-              run: hugo --destination .
+              run: hugo --minify --gc
 
             - name: Deploy 🚀
               uses: JamesIves/github-pages-deploy-action@4.1.4
               with:
                   branch: gh-pages
-                  folder: .
+                  folder: public
                   clean: true
                   single-commit: true
