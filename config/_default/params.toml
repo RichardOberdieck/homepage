@@ -8,17 +8,17 @@ since = 2020
 customText = ""
 
 [dateFormat]
-published = "Jan 02, 2006"
-lastUpdated = "Jan 02, 2006 15:04 MST"
+published = "4th of June, 2023"
+lastUpdated = "4th of June, 2023"
 
 [sidebar]
 emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+subtitle = "Overview"
 
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/oberdieck.jpg"
 
 [article]
 math = false
