@@ -41,5 +41,17 @@
 	"remoteUser": "node",
 	"features": {
 		"golang": "1.17.8"
+	},
+
+	"customizations": {
+		"codespaces": {
+		  "repositories": {
+			"homepage": {
+			  "permissions": {
+				"issues": "write"
+			  }
+			}
+		  }
+		}
 	}
 }
