@@ -43,15 +43,8 @@
 		"golang": "1.17.8"
 	},
 
-	"customizations": {
-		"codespaces": {
-		  "repositories": {
-			"homepage": {
-			  "permissions": {
-				"issues": "write"
-			  }
-			}
-		  }
-		}
-	}
+	"mounts": [
+		"type=bind,source=${localWorkspaceFolder},target=/work",
+		"type=bind,source=/home/${localEnv:richard}/.ssh,target=/root/.ssh,readonly"
+	  ]
 }
