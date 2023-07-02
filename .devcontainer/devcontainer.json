@@ -44,7 +44,6 @@
 	},
 
 	"mounts": [
-		"type=bind,source=${localWorkspaceFolder},target=/work",
-		"type=bind,source=/home/${localEnv:richard}/.ssh,target=/root/.ssh,readonly"
+		"type=bind,source=/home/richard/.ssh,target=/home/node/.ssh,readonly"
 	  ]
 }
