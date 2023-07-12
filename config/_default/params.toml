@@ -4,15 +4,10 @@ mainSections = ["post"]
 rssFullContent = true
 
 [footer]
-since = 2020
+since = 2023
 customText = ""
 
-[dateFormat]
-published = "4th of June, 2023"
-lastUpdated = "4th of June, 2023"
-
 [sidebar]
-emoji = "🍥"
 subtitle = "Overview"
 
 [sidebar.avatar]
@@ -21,12 +16,8 @@ local = true
 src = "img/oberdieck.jpg"
 
 [article]
-math = false
+math = true
 readingTime = true
-
-[article.license]
-enabled = true
-default = "Licensed under CC BY-NC-SA 4.0"
 
 ## Widgets
 [[widgets.homepage]]
