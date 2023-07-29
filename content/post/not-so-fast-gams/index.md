@@ -88,7 +88,7 @@ This does not change the fundamental statement of the article, I just don't thin
 
 3. `JuMP` is slower than `pyomo`?
 
-Eventually I will make a post about modeling frameworks, but `pyomo` is definitely one that is known for its model building speed. On the flip side, `JuMP` was a core package for Julia from the start, and is very much written with speed in mind.
+Eventually I will make a post about modeling frameworks, but `pyomo` is definitely not one that is known for its model building speed. On the flip side, `JuMP` was a core package for Julia from the start, and is very much written with speed in mind.
 
 I don't know enough Julia to judge the code quality, but `JuMP` being factor 2-3 slower(!!) than `pyomo` makes no sense to me (plot from the article):
 
