@@ -53,5 +53,3 @@ Also the details around state-sponsored hacking are fascinating to read: the fac
 
 I think the book has all the knowledgle it needs, but I don't think I'll recommend it as a gift simply because the last 100 pages or so really felt loooooong.
 
-{{ template "_internal/disqus.html" . }}
-
