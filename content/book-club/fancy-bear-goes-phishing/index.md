@@ -52,3 +52,6 @@ Having said this, there was a ton of things to learn in the book. One of the big
 Also the details around state-sponsored hacking are fascinating to read: the fact that it is accepted that all the countries hack each other. And many more stories like this.
 
 I think the book has all the knowledgle it needs, but I don't think I'll recommend it as a gift simply because the last 100 pages or so really felt loooooong.
+
+{{ template "_internal/disqus.html" . }}
+
