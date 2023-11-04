@@ -4,7 +4,7 @@ description: Last week GAMS posted a benchmark of GAMS vs JuMP, pyomo and gurobi
 slug: not-so-fast-gams
 date: 2023-07-13
 image: horse-race.png
-comments: false
+comments: true
 categories:
     - Modeling
 ---

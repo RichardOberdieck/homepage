@@ -4,7 +4,7 @@ description: What's the best way to compare solvers? What should I measure and h
 slug: pick-a-solver
 date: 2023-07-06
 image: thinking.png
-comments: false
+comments: true
 categories:
     - Optimization
 ---

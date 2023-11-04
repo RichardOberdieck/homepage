@@ -4,7 +4,7 @@ description: So you want to start webscraping, but how? This article shows the b
 slug: web-scraping-python
 date: 2023-11-03
 image: scraping.png
-comments: false
+comments: true
 categories:
     - Tutorial
 ---
