@@ -1,5 +1,5 @@
 ---
-title: A Mathematician's Apology (1940) by H.G. Hardy - A book about mathematics, and life, by the man who discovered Ramanujan
+title: A Mathematician's Apology (1940) by G.H. Hardy - A book about mathematics, and life, by the man who discovered Ramanujan
 description: This famous book was written by the mathematician who saw Ramanujan's genius and brought him from India to Cambridge. It is an "apology", since "If then I find myself writing, not mathematics but 'about' mathematics, it is a confession of weakness, for which I may rightly be scorned or pitied by younger and more vigorous mathematicians."
 slug: hardy-a-mathematicians-apology
 date: 2023-11-22
