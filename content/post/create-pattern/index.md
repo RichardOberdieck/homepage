@@ -2,7 +2,7 @@
 title: It's too much for you, init. The create pattern
 description: Often, an object needs to perform certain actions to get all its properties calculated during initialization. Naively, one could use Python's __init__ for this, but there is a better way.
 slug: create-pattern
-date: 2024-03-02
+date: 2024-10-19
 image: create-pattern-title2.png
 comments: true
 categories:
