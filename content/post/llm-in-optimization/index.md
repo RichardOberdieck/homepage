@@ -3,7 +3,7 @@ title: LLM-ify me - Optimization edition
 description: LLMs are everywhere nowadays. But how do they fit into the optimization landscape?
 slug: llm-in-optimization
 date: 2024-11-27
-image: llm-in-optimization2.jpg
+image: llm-in-optimization.jpg
 comments: true
 categories:
     - Optimization
